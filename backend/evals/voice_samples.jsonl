@@ -1,0 +1,12 @@
+{"lang": "en", "condition": "clean", "ref": "Where is my order VX 10284", "hyp": null}
+{"lang": "en", "condition": "clean", "ref": "I would like a refund for my last order", "hyp": null}
+{"lang": "en", "condition": "clean", "ref": "Can I speak to a human agent please", "hyp": null}
+{"lang": "en", "condition": "noisy", "ref": "My payment failed but money was deducted", "hyp": null}
+{"lang": "hi", "condition": "clean", "ref": "मेरा ऑर्डर अभी तक नहीं पहुँचा", "hyp": null}
+{"lang": "hi", "condition": "clean", "ref": "मुझे रिफंड चाहिए", "hyp": null}
+{"lang": "hinglish", "condition": "clean", "ref": "Mera order abhi tak deliver nahi hua", "hyp": null}
+{"lang": "hinglish", "condition": "clean", "ref": "Mujhe apna refund status check karna hai", "hyp": null}
+{"lang": "hinglish", "condition": "noisy", "ref": "Order cancel kar do please", "hyp": null}
+{"lang": "hinglish", "condition": "noisy", "ref": "Mera order delayed hai kya aap check kar sakte ho", "hyp": null}
+{"lang": "en", "condition": "clean", "ref": "The last four digits are four eight two one", "hyp": null}
+{"lang": "hinglish", "condition": "clean", "ref": "Haan ticket bana do", "hyp": null}
